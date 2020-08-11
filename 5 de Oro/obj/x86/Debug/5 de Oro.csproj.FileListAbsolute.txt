@@ -1,0 +1,32 @@
+C:\Users\Ruzzoni\Desktop\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+C:\Users\Ruzzoni\Desktop\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+C:\Users\Ruzzoni\Desktop\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+C:\Users\Ruzzoni\Desktop\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+C:\Users\Ruzzoni\Desktop\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.csprojResolveAssemblyReference.cache
+E:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+E:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+E:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+E:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+E:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.csprojResolveAssemblyReference.cache
+F:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+F:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+F:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+F:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+F:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.csprojResolveAssemblyReference.cache
+G:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+G:\Obligatorio Poo\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+C:\Users\sistemas\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+C:\Users\sistemas\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+C:\Users\sistemas\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+C:\Users\sistemas\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+C:\Users\Ruzzoni\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+C:\Users\Ruzzoni\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+C:\Users\Ruzzoni\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+C:\Users\Ruzzoni\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+C:\Users\Ruzzoni\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.exe
+C:\Users\usuario\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\5 de Oro.pdb
+C:\Users\usuario\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.exe
+C:\Users\usuario\Desktop\Obligatrorio Poo\5 de Oro\bin\Debug\5 de Oro.pdb
+C:\Users\usuario\Desktop\Obligatrorio Poo\5 de Oro\obj\x86\Debug\ResolveAssemblyReference.cache
